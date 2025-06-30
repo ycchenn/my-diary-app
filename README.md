@@ -1,3 +1,6 @@
+*這是一個純屬好玩的side project，大概規劃的功能是註冊登入後選擇日期開始記錄心情。
+專案動機是因為我的日記本好像被我丟在國外沒帶回來⋯⋯乾脆數位化，順便檢視DBMS的學習成果(`･∀･)b
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
